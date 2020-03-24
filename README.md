@@ -7,3 +7,4 @@
 * NPN transistor virkar þannig að þegar það flæðir lítill straumur í gegnum hann þá eykur hann strauminn
 * PNP virkar þannig að þegar mikill straumur fer í gegnum hann þá minkar hann flæðið 
 * Við notum PWM Pinna til þess að við getum stjórnað hversu hratt mótorinn snýst
+* Mottorinn getur notað mikklu meira að straum en arduino borðið höndlar þannig að við notum transistor og díóður til þess að við getu notað minni straum og látið transistorinn auka strauminn
