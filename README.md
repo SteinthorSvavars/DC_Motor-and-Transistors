@@ -6,3 +6,4 @@
 * Transistor tekur inn straum og eykur hann
 * NPN transistor virkar þannig að þegar það flæðir lítill straumur í gegnum hann þá eykur hann strauminn
 * PNP virkar þannig að þegar mikill straumur fer í gegnum hann þá minkar hann flæðið 
+* Við notum PWM Pinna til þess að við getum stjórnað hversu hratt mótorinn snýst
